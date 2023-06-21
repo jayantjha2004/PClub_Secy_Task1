@@ -1,4 +1,4 @@
-\begin{quote}
+
 
 Bob and Alice are playing a game. You may have played it in childhood with your friends :)
 
@@ -12,4 +12,4 @@ You have been given the danger number, $n$. Your job is to find out if both play
 
 Note that in the above example, the players did not play optimally. The purpose of the example was just to demonstrate how the game works.
 
-\end{quote}
+
